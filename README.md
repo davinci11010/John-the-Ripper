@@ -1,0 +1,2 @@
+John the Ripper es un script que basicamente te saca el hash de un archivo cifrado .txt con el fin de hacer un ataque por medio de CLAVE - VALOR (diccionario) este tipo de ataques puede ser muy efectivo siempre y cuando tengamos el data set   de las posibles contraseñas 
+generadas (rockyout.txt) cabe recalcar que ese archivo se puede modificar con base a nueva informacion para tener mas probabilidad de acierto 
